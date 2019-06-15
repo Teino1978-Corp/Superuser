@@ -32,7 +32,7 @@ Make sure the SDK Platform for API 19 is installed, through the Android SDK Mana
 
 In Eclipse, import Widgets/Widgets and Superuser/Superuser. It should Just Work (TM).
 
-## Ant
+## Ant Example
 
 * $ mkdir /path/to/src
 * $ cd /path/to/src
