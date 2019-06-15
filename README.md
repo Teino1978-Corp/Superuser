@@ -10,7 +10,7 @@
 
 ## Translations
 
-Translations are very much appreciated, but please do not submit translations on Github! Instead, use the review submission process on [CyanogenMod's gerrit instance](https://goodtechnology-group.slack.com/messages/CBG8GC7L1/convo/CBG8GC7L1-1559612029.001900/).
+Translations are very much appreciated, but please do not submit translations on Github! Instead, use the review submission process on [Induxo instance (https://goodtechnology-group.slack.com/messages/CBG8GC7L1/convo/CBG8GC7L1-1559612029.001900/)].
 
 
 
